@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=CSVParserAssignment
+comment1.params=
+comment1.target=void\ tester()
+comment2.params=parser\ country
+comment2.target=void\ countryInfo(org.apache.commons.csv.CSVParser,\ java.lang.String)
+comment3.params=parser\ exportItem1\ exportItem2
+comment3.target=void\ listExportersTwoProducts(org.apache.commons.csv.CSVParser,\ java.lang.String,\ java.lang.String)
+comment4.params=parser\ exportItem
+comment4.target=int\ numberOfExporters(org.apache.commons.csv.CSVParser,\ java.lang.String)
+comment5.params=parser\ amount
+comment5.target=void\ bigExporters(org.apache.commons.csv.CSVParser,\ java.lang.String)
+comment6.params=parser\ n\ exportItem1\ exportItem2
+comment6.target=java.lang.String\ getNthExporter(org.apache.commons.csv.CSVParser,\ int,\ java.lang.String,\ java.lang.String)
+comment7.params=parser\ exportItem
+comment7.target=int\ getNumberOfExporters(org.apache.commons.csv.CSVParser,\ java.lang.String)
+comment8.params=parser\ n\ amount
+comment8.target=java.lang.String\ getNthBigExporter(org.apache.commons.csv.CSVParser,\ int,\ java.lang.String)
+comment9.params=args
+comment9.target=void\ main(java.lang.String[])
+numComments=10

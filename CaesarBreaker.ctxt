@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=CaesarBreaker
+comment1.params=encrypted\ key
+comment1.target=java.lang.String\ decrypt(java.lang.String,\ int)
+comment2.params=message\ start
+comment2.target=java.lang.String\ halfOfString(java.lang.String,\ int)
+comment3.params=s
+comment3.target=int\ getKey(java.lang.String)
+comment4.params=s
+comment4.target=int[]\ countLetters(java.lang.String)
+comment5.params=values
+comment5.target=int\ maxIndex(int[])
+comment6.params=encrypted
+comment6.target=java.lang.String\ decryptTwoKeys(java.lang.String)
+comment7.params=filename
+comment7.target=void\ decryptFile(java.lang.String)
+comment8.params=filename
+comment8.target=int[]\ findTwoKeys(java.lang.String)
+comment9.params=args
+comment9.target=void\ main(java.lang.String[])
+numComments=10

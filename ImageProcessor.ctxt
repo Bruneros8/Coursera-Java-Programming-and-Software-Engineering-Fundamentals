@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=ImageProcessor
+comment1.params=inImage
+comment1.target=edu.duke.ImageResource\ makeGray(edu.duke.ImageResource)
+comment2.params=inImage
+comment2.target=edu.duke.ImageResource\ makeInversion(edu.duke.ImageResource)
+comment3.params=grayscale
+comment3.target=void\ batchProcessImages(boolean)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

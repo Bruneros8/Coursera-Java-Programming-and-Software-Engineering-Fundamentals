@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=GeneAnalysis
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=filePath
+comment2.target=java.lang.String\ readSequenceFromFile(java.lang.String)
+comment3.params=dna
+comment3.target=edu.duke.StorageResource\ getGenes(java.lang.String)
+comment4.params=genes\ length
+comment4.target=int\ countGenesLengthGreaterThan(edu.duke.StorageResource,\ int)
+comment5.params=genes\ threshold
+comment5.target=int\ countGenesWithHighCGRatio(edu.duke.StorageResource,\ double)
+comment6.params=sequence
+comment6.target=double\ calculateCGRatio(java.lang.String)
+numComments=7

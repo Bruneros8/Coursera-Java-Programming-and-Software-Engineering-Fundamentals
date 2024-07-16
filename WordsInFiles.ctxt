@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=WordsInFiles
+comment1.params=
+comment1.target=WordsInFiles()
+comment2.params=f
+comment2.target=void\ addWordsFromFile(java.io.File)
+comment3.params=
+comment3.target=void\ buildWordFileMap()
+comment4.params=numFiles
+comment4.target=int\ wordsInFilesCount(int)
+comment5.params=numFiles
+comment5.target=java.util.ArrayList\ wordsInFiles(int)
+comment6.params=word\ filename
+comment6.target=boolean\ wordAppearsInFile(java.lang.String,\ java.lang.String)
+comment7.params=word
+comment7.target=java.util.ArrayList\ filesWhereWordAppears(java.lang.String)
+comment8.params=wordsInFiles\ word
+comment8.target=java.util.ArrayList\ filesWithoutWord(WordsInFiles,\ java.lang.String)
+comment9.params=args
+comment9.target=void\ main(java.lang.String[])
+numComments=10
